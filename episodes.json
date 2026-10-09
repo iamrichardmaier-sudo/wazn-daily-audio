@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-09",
+      "date": "2026-10-09",
+      "title": "Oct 9 — العرس · The Wedding",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-09.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-09.png",
+      "duration_secs": 403
+    },
+    {
       "id": "2026-10-08-chapter-ii",
       "date": "2026-10-08",
       "title": "Oct 8 — Chapter II - Audio Exercises",
@@ -25,6 +33,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-08T14:25:07Z",
-  "version": 2
+  "updated": "2026-10-09T09:59:35Z",
+  "version": 3
 }
