@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-11",
+      "date": "2026-10-11",
+      "title": "Oct 11 — المحل · The Shop",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-11.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-11.png",
+      "duration_secs": 459
+    },
+    {
       "id": "2026-10-10",
       "date": "2026-10-10",
       "title": "Oct 10 — الرحلة · The Journey",
@@ -41,6 +49,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-10T09:59:37Z",
-  "version": 4
+  "updated": "2026-10-11T09:59:52Z",
+  "version": 5
 }
