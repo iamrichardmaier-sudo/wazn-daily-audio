@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-12",
+      "date": "2026-10-12",
+      "title": "Oct 12 — العيلة · The Family",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-12.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-12.png",
+      "duration_secs": 484
+    },
+    {
       "id": "2026-10-11",
       "date": "2026-10-11",
       "title": "Oct 11 — المحل · The Shop",
@@ -50,5 +58,5 @@
     }
   ],
   "updated": "2026-10-11T09:59:52Z",
-  "version": 5
+  "version": 6
 }
