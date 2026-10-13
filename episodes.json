@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-13",
+      "date": "2026-10-13",
+      "title": "Oct 13 — السوق · The Market",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-13.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-13.png",
+      "duration_secs": 457
+    },
+    {
       "id": "2026-10-12",
       "date": "2026-10-12",
       "title": "Oct 12 — العيلة · The Family",
@@ -57,6 +65,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-11T09:59:52Z",
-  "version": 6
+  "updated": "2026-10-13T09:59:50Z",
+  "version": 7
 }
