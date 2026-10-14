@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-14",
+      "date": "2026-10-14",
+      "title": "Oct 14 — الشغل · The Job",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-14.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-14.png",
+      "duration_secs": 517
+    },
+    {
       "id": "2026-10-13-maha-qissa",
       "date": "2026-10-13",
       "title": "Maha qissa BMasri — Oct 13",
@@ -74,6 +82,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-13T09:59:50Z",
-  "version": 8
+  "updated": "2026-10-14T10:00:36Z",
+  "version": 9
 }
