@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-16",
+      "date": "2026-10-16",
+      "title": "Oct 16 — المباراة · The Match",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-16.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-16.png",
+      "duration_secs": 503
+    },
+    {
       "id": "2026-10-15",
       "date": "2026-10-15",
       "title": "Oct 15 — البحر · The Sea",
@@ -90,6 +98,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-15T10:00:08Z",
-  "version": 10
+  "updated": "2026-10-16T10:00:08Z",
+  "version": 11
 }
