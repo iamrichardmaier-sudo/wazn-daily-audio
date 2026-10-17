@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-17",
+      "date": "2026-10-17",
+      "title": "Oct 17 — البيت الجديد · The New House",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-17.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-17.png",
+      "duration_secs": 446
+    },
+    {
       "id": "2026-10-16",
       "date": "2026-10-16",
       "title": "Oct 16 — المباراة · The Match",
@@ -98,6 +106,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-16T10:00:08Z",
-  "version": 11
+  "updated": "2026-10-17T09:59:35Z",
+  "version": 12
 }
