@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-18",
+      "date": "2026-10-18",
+      "title": "Oct 18 — حفلة التخرّج · The Graduation Party",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-18.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-18.png",
+      "duration_secs": 463
+    },
+    {
       "id": "2026-10-17",
       "date": "2026-10-17",
       "title": "Oct 17 — البيت الجديد · The New House",
@@ -106,6 +114,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-17T09:59:35Z",
-  "version": 12
+  "updated": "2026-10-18",
+  "version": 13
 }
