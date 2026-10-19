@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-19",
+      "date": "2026-10-19",
+      "title": "Oct 19 — التخييم بالجبل · The Mountain Camping Trip",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-19.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-19.png",
+      "duration_secs": 319
+    },
+    {
       "id": "2026-10-18",
       "date": "2026-10-18",
       "title": "Oct 18 — حفلة التخرّج · The Graduation Party",
@@ -114,6 +122,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-18",
-  "version": 13
+  "updated": "2026-10-19",
+  "version": 14
 }
