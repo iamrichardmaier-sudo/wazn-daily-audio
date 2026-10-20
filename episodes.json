@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-20",
+      "date": "2026-10-20",
+      "title": "Oct 20 — العيد · The Holiday",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-20.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-20.png",
+      "duration_secs": 327
+    },
+    {
       "id": "2026-10-19",
       "date": "2026-10-19",
       "title": "Oct 19 — التخييم بالجبل · The Mountain Camping Trip",
@@ -122,6 +130,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-19",
-  "version": 14
+  "updated": "2026-10-20",
+  "version": 15
 }
