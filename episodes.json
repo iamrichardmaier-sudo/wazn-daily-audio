@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-22",
+      "date": "2026-10-22",
+      "title": "Oct 22 — الخيّاط · The Tailor",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-22.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-22.png",
+      "duration_secs": 322
+    },
+    {
       "id": "2026-10-21",
       "date": "2026-10-21",
       "title": "Oct 21 — التلجة · The First Snow",
@@ -138,6 +146,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-21T09:59:18Z",
-  "version": 16
+  "updated": "2026-10-22T10:16:26Z",
+  "version": 17
 }
