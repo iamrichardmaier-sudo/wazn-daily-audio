@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-25",
+      "date": "2026-10-25",
+      "title": "Oct 25 — يوم المطر · The Rainy Day",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-25.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-25.png",
+      "duration_secs": 432
+    },
+    {
       "id": "2026-10-24",
       "date": "2026-10-24",
       "title": "Oct 24 — موسم الزيتون · The Olive Harvest",
@@ -162,6 +170,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-24",
-  "version": 19
+  "updated": "2026-10-25",
+  "version": 20
 }
