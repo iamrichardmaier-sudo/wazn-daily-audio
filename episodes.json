@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-26",
+      "date": "2026-10-26",
+      "title": "Oct 26 — المسرحيّة · The School Play",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-26.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-26.png",
+      "duration_secs": 516
+    },
+    {
       "id": "2026-10-25",
       "date": "2026-10-25",
       "title": "Oct 25 — يوم المطر · The Rainy Day",
@@ -170,6 +178,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-25",
-  "version": 20
+  "updated": "2026-10-26",
+  "version": 21
 }
