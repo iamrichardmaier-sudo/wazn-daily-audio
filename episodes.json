@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-28",
+      "date": "2026-10-28",
+      "title": "Oct 28 — معرض الصور · The Photo Exhibition",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-28.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-28.png",
+      "duration_secs": 605
+    },
+    {
       "id": "2026-10-27",
       "date": "2026-10-27",
       "title": "Oct 27 — حملة الملابس · The Clothes Drive",
@@ -186,6 +194,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-26",
-  "version": 21
+  "updated": "2026-10-28",
+  "version": 22
 }
