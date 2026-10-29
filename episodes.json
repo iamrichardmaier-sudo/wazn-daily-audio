@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-29",
+      "date": "2026-10-29",
+      "title": "Oct 29 — ليلة الطبخ · The Cooking Night",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-29.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-29.png",
+      "duration_secs": 680
+    },
+    {
       "id": "2026-10-28",
       "date": "2026-10-28",
       "title": "Oct 28 — معرض الصور · The Photo Exhibition",
@@ -194,6 +202,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-28",
-  "version": 22
+  "updated": "2026-10-29",
+  "version": 23
 }
