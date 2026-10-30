@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-10-30",
+      "date": "2026-10-30",
+      "title": "Oct 30 — الحديقة · The Community Garden",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-10-30.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-10-30.png",
+      "duration_secs": 682
+    },
+    {
       "id": "2026-10-29",
       "date": "2026-10-29",
       "title": "Oct 29 — ليلة الطبخ · The Cooking Night",
@@ -202,6 +210,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-29",
-  "version": 23
+  "updated": "2026-10-30",
+  "version": 24
 }
