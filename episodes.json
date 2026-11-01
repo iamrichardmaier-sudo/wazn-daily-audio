@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-11-01",
+      "date": "2026-11-01",
+      "title": "Nov 1 — المخبز · The Bakery Morning",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-11-01.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-11-01.png",
+      "duration_secs": 706
+    },
+    {
       "id": "2026-10-31",
       "date": "2026-10-31",
       "title": "Oct 31 — المقهى · The Café Evening",
@@ -218,6 +226,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-10-31",
-  "version": 25
+  "updated": "2026-11-01",
+  "version": 26
 }
