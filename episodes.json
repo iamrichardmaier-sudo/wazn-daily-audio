@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "id": "2026-11-05",
+      "date": "2026-11-05",
+      "title": "Nov 5 — عيد الميلاد · The Birthday Party",
+      "audio_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/audio/2026-11-05.mp3",
+      "image_url": "https://iamrichardmaier-sudo.github.io/wazn-daily-audio/art/2026-11-05.png",
+      "duration_secs": 677
+    },
+    {
       "id": "2026-11-04",
       "date": "2026-11-04",
       "title": "Nov 4 — ليلة السينما · The Cinema Night",
@@ -250,6 +258,6 @@
       "title": "Oct 7 — الهجرة · Migration"
     }
   ],
-  "updated": "2026-11-04",
-  "version": 29
+  "updated": "2026-11-05",
+  "version": 30
 }
